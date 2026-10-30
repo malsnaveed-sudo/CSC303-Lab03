@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DeviceExplorer</string>
+    <string name="home_title">Devices</string>
+    <string name="details_title">Device details</string>
+    <string name="summary_title">Review summary</string>
+    <string name="search_label">Filter devices</string>
+    <string name="no_matches">No matching devices</string>
+    <string name="unknown_device">Device not found</string>
+    <string name="battery_value">Battery: %1$d percent</string>
+    <string name="note_label">Review note</string>
+    <string name="reviewed_label">Reviewed</string>
+    <string name="open_summary">Open summary</string>
+    <string name="back_label">Back</string>
+    <string name="done_label">Done</string>
+    <string name="review_yes">Review marked complete</string>
+    <string name="review_no">Review not marked complete</string>
+</resources>
