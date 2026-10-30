@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DeviceManager</string>
+
+    <!-- MainActivity Task 2 layout keys -->
+    <string name="device_name_label">Device: Primary Smartphone</string>
+    <string name="battery_level_label">Battery: 85%</string>
+
+    <!-- MainActivity Task 3 formatted dynamic keys -->
+    <string name="device_name_value">Device: %1$s</string>
+    <string name="battery_value">Battery: %1$d%%</string>
+
+    <!-- Buttons -->
+    <string name="btn_edit_device">Edit Device</string>
+    <string name="btn_open_doc">Open Documentation</string>
+
+    <!-- EditDeviceActivity layout keys -->
+    <string name="label_device_name">Device Name:</string>
+    <string name="hint_device_name">Enter device name</string>
+    <string name="label_battery_level">Battery Level (%):</string>
+    <string name="hint_battery_level">Enter battery level</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
