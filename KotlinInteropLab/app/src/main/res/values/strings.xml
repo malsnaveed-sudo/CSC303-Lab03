@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinInteropLab</string>
+    <string name="analyze_devices">Analyze devices</string>
+    <string name="report_not_generated">Run the analysis to view the report.</string>
+</resources>
